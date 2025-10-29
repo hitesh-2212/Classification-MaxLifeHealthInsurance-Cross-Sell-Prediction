@@ -98,9 +98,5 @@ Age, Vintage, Annual Premium, Vehicle Damage, and Policy Sales Channel
 
 ---
 
-## 🔗 Project Link
-
-[View Full Project on Google Colab](https://colab.research.google.com/drive/1dJdbWyurkJ0hoaVLacM1128ykn6WUc4h?usp=sharing)
-
 ## Data set Link :- https://drive.google.com/file/d/1AW5Gz6IqktDOoIjaBeWvy-HMaF5Y84sX/view?usp=sharing
 
