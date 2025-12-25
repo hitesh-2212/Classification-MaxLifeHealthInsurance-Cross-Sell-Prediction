@@ -1,7 +1,5 @@
 # 🧠 Max Life Insurance Cross-Sell Prediction
 
-<img width="938" height="667" alt="image" src="https://github.com/user-attachments/assets/7e25dcea-94c3-4617-a89d-7df68cba6111" />
-
 ## 📋 Summary
 
 This project aimed to help **Max Life Insurance** improve its cross-selling strategy by predicting which existing health insurance policyholders are most likely to purchase **vehicle insurance**. The dataset included over **280,000 customer records**, covering demographics, vehicle ownership, previous insurance history, and premium details.
@@ -32,6 +30,8 @@ The insurance industry is increasingly leveraging **data analytics and machine l
 With rising competition and digital transformation, companies such as **HDFC Life**, **ICICI Lombard**, and **Max Life Insurance** are integrating predictive analytics to identify customers most likely to purchase complementary products—like **vehicle or life insurance** for existing health insurance holders.
 
 ---
+
+<img width="938" height="667" alt="image" src="https://github.com/user-attachments/assets/7e25dcea-94c3-4617-a89d-7df68cba6111" />
 
 ## 🎯 Project Objective
 
